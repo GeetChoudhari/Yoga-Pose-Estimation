@@ -1,0 +1,17 @@
+MarkupSafe 
+decorator 
+matplotlib
+mediapipe 
+numpy
+opencv-contrib-python
+opencv-python-headless
+packaging
+pandas
+pandocfilters
+pillow
+scikit-learn
+scipy
+setuptools
+streamlit
+
+
